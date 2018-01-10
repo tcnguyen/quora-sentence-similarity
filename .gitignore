@@ -1,0 +1,32 @@
+# Default
+cache
+log/*.log
+VM/*.log
+tmp/**/*
+public/system/**
+public/uploads/
+db/schema.rb
+dump.rdb
+coverage/
+.coverage
+***/*.pyc
+
+# Configuration
+*/settings/production.py
+*/settings/staging.py
+*/settings/development.py
+*/settings/test.py
+
+# OS-Generated
+.DS_Store
+
+# IDE-Generated
+.idea/
+.bashrc
+
+# Misc
+*~
+.ruby-version
+
+# Data
+vectors/**

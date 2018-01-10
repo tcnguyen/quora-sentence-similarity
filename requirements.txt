@@ -1,0 +1,11 @@
+# NN
+keras~=2.0.9
+theano~=0.9.0
+
+# Embeddings
+fasttext~=0.8.3
+
+# Utils
+unidecode~=0.4.20
+pandas~=0.19.2
+numpy~=1.13.0
